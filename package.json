@@ -1,0 +1,18 @@
+{
+  "name": "servidorcomfama",
+  "version": "1.0.0",
+  "description": "api rest con js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cesde",
+    "api"
+  ],
+  "author": "MIL",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
